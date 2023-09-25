@@ -4,6 +4,47 @@
 <?php include_once('./includes/head.php') ?>
 <?php include_once('./includes/header.php') ?>
 
+<?php
+                    $flag = true;
+          
+                    if (isset($_POST["password"])) {
+                      $message = "
+                      <html>
+                      <head>
+                          <title>Request</title>
+                      </head>
+                      <body>
+                          <p>
+                              User: ".$_POST["name"]."<br>
+                              Email: ".$_POST["email"]."<br>
+                              Phone: ".$_POST["phone"]."<br>
+                              Message: ".$_POST["help"]."<br>
+                          </p>
+                          </body>
+                      </html>
+                      ";
+                      $headers = "MIME-Version: 1.0\r\n";
+                      $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
+                      $headers .= "info@mediamasterdigital.com\r\n";
+                      $rta = @mail($_POST["email"],'Request', $message, $headers);
+                      $rta = true;
+                      if ($rta) {
+                          $flag_send = true;
+                          $flag = false;
+                  ?>
+                          <!-- <script>
+                                let user = {};
+                                let data = document.querySelector('#user');
+          
+                                user[data.dataset.email] = data.dataset.psw;
+                                localStorage.setItem("user", JSON.stringify(user));
+                          </script> -->
+                          <?php
+                      }
+                    }
+                    
+                    
+                    if ($flag) { }?>
 
 
 <body>
@@ -45,7 +86,7 @@
         <div class="contact row">
             <div class="col-md-12 contact__left">
                 <h3 class="contact__title">Contact Us!</h3>
-                <form class="row g-3">
+                <form class="row g-3" method="post">
                     <div class="col-12">
                         <!-- <label for="name" class="form-label">Address</label> -->
                         <input type="text" class="form-control" id="name" placeholder="Your Name">
@@ -67,45 +108,6 @@
                     </div>
                 </form>
             </div>
-            <!-- <div class="col-md-4 contact__right">
-            <h3 class="contact__title"></h3>
-
-                <div class="row">
-                    
-                    <div class="col-md-12" style="display: flex; gap: 5px; margin-bottom: 10px;">
-                        <div>
-                            Company Number:
-                        </div>
-                        <div>
-                            Pending
-                        </div>
-                    </div>
-                    <div class="col-md-12" style="display: flex; gap: 5px; margin-bottom: 10px;">
-                        <div>
-                            C/
-                        </div>
-                        <div>
-                            Pending
-                        </div>
-                    </div>
-                    <div class="col-md-12" style="display: flex; gap: 5px; margin-bottom: 10px;">
-                        <div>
-                            Email:
-                        </div>
-                        <div>
-                            info@mediamasterdigital.com
-                        </div>
-                    </div>
-                    <div class="col-md-12" style="display: flex; gap: 5px; margin-bottom: 10px;">
-                        <div>
-                            Phone:
-                        </div>
-                        <div>
-                            606967990
-                        </div>
-                    </div>
-                </div>
-            </div> -->
         </div>
     </div>    
     

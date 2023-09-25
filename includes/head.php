@@ -1,6 +1,8 @@
 <head>
 	<link rel="stylesheet" href="./assets/css/styles.css" type="text/css" />
-	<link rel="stylesheet" href="../assets/css/styles.css" type="text/css" />
+	<!-- <link rel="stylesheet" href="../assets/css/styles.css" type="text/css" /> -->
+
+    <link rel="icon" href="./assets/img/MEDIAMASTERLOGO.svg" sizes="any" type="image/svg+xml">
 
     <meta name="robots" content="noindex, nofollow"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
