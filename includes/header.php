@@ -2,7 +2,7 @@
 
 <header>
     <div class="header__container container">
-        <a href="./home" class="logo">LOGO</a>
+        <a href="./home" class="logo"><img src="./assets/img/MEDIAMASTERLOGO.svg" width="60px"/></a>
         <div class="right">
             <div class="dropdown">
                 <a href="./portfolio" class="header__portfolio">PORTFOLIO</a>

@@ -11,21 +11,29 @@
         <div class="brand__top row" style="justify-content: center;">
             <div class="col-md-8 brand__top--left row" >
                 <div class="col-md-12 brand__top--title">
-                    A brand is more than just a logo - it´s an evolving marketing ethos, backed by data-driven insights.
+                    We deliver strategic technical solutions, custom engineered to improve your business.
                 </div>
                 <div class="col-md-12 brand__top--subtitle">
-                    Build trust, grow sales & gain actionable insights with our experienced market strategists & brand consultants.
+                Drive engagement, grow traffic, & increase conversion rates by partnering with an innovative app & web development agency.
                 </div>
-                <div class="col-md-3 brand__top--items">Brand Audit & Strategy</div>
-                <div class="col-md-3 brand__top--items">Competitor Analysis</div>
-                <div class="col-md-3 brand__top--items">Consumer Interviews</div>
-                <div class="col-md-3 brand__top--items">Google Analytics Review</div>
-                <div class="col-md-3 brand__top--items">Persona Developement</div>
-                <div class="col-md-3 brand__top--items">SEO Audit & Strategy</div>
-                <div class="col-md-3 brand__top--items">SEO Keyword Research</div>
-                <div class="col-md-3 brand__top--items">Site Mapping & Content Architecture</div>
-                <div class="col-md-3 brand__top--items">Technical Strategy & Roadmapping</div>
-                <div class="col-md-3 brand__top--items">Logo & Brand Development</div>
+                <div class="col-md-3 brand__top--items">API
+Development</div>
+                <div class="col-md-3 brand__top--items">Augmented Reality
+App Development</div>
+                <div class="col-md-3 brand__top--items">Front-End Design
+& Development</div>
+                <div class="col-md-3 brand__top--items">Mobile App Design
+& Development</div>
+                <div class="col-md-3 brand__top--items">Technical Strategy
+& Roadmapping</div>
+                <div class="col-md-3 brand__top--items">Virtual Reality
+App Development</div>
+                <div class="col-md-3 brand__top--items">Web App
+Development</div>
+                <div class="col-md-3 brand__top--items">WordPress Theme
+Customization</div>
+                <div class="col-md-3 brand__top--items">WordPress Theme
+Development</div>
                 <div class="col-md-3 brand__top--items">Your Custom Project</div>
             </div>
             <div class="col-md-4 brand__top--right">
@@ -38,8 +46,8 @@
                     Our Client Proven Process
                 </div>
                 <div class="service__body--toptext">
-                    When done effectively, any marketing initiative can foster trut, build relationships, and elicit emotion in a target audience. Our process is designed to ensure you have the 
-                    key data required to make informed decisions for your brand.
+                As an experienced app and web development agency, we understand the importance of structure in any digital engagement.
+                 Our process ensures every detail is in place for a successful final product – aligned to your goals, vision, and budget.
                 </div>
             </div>
             <div class="row">
@@ -52,20 +60,7 @@
                             Discovery
                         </div>
                         <div class="service__body--text">
-                            Our initial exploration focuses on our most important resource – you. We start with a comprehensive conversation to discover your unique perspective and goals.
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 service__body--item">
-                    <div class="service__body--media">
-                        <img src="./assets/img/research.png" width="150px"/>
-                    </div>
-                    <div class="service__body--info">
-                        <div class="service__body--title">
-                            Research
-                        </div>
-                        <div class="service__body--text">
-                            With your priorities in mind, our brand consultants will begin our analysis – exploring your market, competitors, and/or current brand to identify areas of opportunity.
+                        Our initial phase explores your unique goals and audience to align on your creative vision, objectives, and technical requirements.
                         </div>
                     </div>
                 </div>
@@ -78,20 +73,59 @@
                             Strategy
                         </div>
                         <div class="service__body--text">
-                            Armed with extensive research, we draft key recommendations designed to maximize every dollar and create a solid foundation for the lifespan of your organization.
+                        Next, we formulate a technical strategy based on your key priorities, industry data, consumer trends, and UI/UX best practices.
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 service__body--item">
                     <div class="service__body--media">
-                        <img src="./assets/img/implementation.png" width="150px"/>
+                        <img src="./assets/img/contentExecution.png" width="150px"/>
                     </div>
                     <div class="service__body--info">
                         <div class="service__body--title">
-                            Implementation
+                        Content Execution
                         </div>
                         <div class="service__body--text">
-                        Ready, set, go! With your data-driven roadmap in-hand, now is the time to take action. Let our creative and technical specialists take on the next leg of your journey to success.
+                        Content is king. In this phase, we ensure your project includes SEO optimized content written to drive engagement and conversions.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 service__body--item">
+                    <div class="service__body--media">
+                        <img src="./assets/img/technical.png" width="150px"/>
+                    </div>
+                    <div class="service__body--info">
+                        <div class="service__body--title">
+                        Technical Execution
+                        </div>
+                        <div class="service__body--text">
+                        Our in-house technical team will prepare your project for its public debut, breathing life into your approved design with custom development.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 service__body--item">
+                    <div class="service__body--media">
+                        <img src="./assets/img/launch.png" width="150px"/>
+                    </div>
+                    <div class="service__body--info">
+                        <div class="service__body--title">
+                        Launch
+                        </div>
+                        <div class="service__body--text">
+                        Once all pages are approved, it’s time to launch! Our team will assist in a seamless transition from staging to production, so you can worry less and celebrate more.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 service__body--item">
+                    <div class="service__body--media">
+                        <img src="./assets/img/creative.png" width="150px"/>
+                    </div>
+                    <div class="service__body--info">
+                        <div class="service__body--title">
+                        Creative Execution
+                        </div>
+                        <div class="service__body--text">
+                        With our strategy and content in-hand, it’s time to realize your vision with a functionally intuitive and emotionally impactful creative design.
                         </div>
                     </div>
                 </div>
@@ -102,11 +136,12 @@
                 </div>
                 <div class="service__insights--item col-md-4">
                     <div class="service__insights--item-title">
-                        Implement
+                    Promote
                     </div>
                     <div class="service__insights--item--text">
-                        Research-driven strategies empower businesses to reengage with audiences. But, how do you turn these ideas into actionable
-                        marketing? Our creative and development services can help you efficiently turn insights into conversions.
+                    Launching may be a time of great excitement, but it’s only the beginning! In order to maximize the full potential of your initiative, 
+                    it’s imperative to boost visibility with digital marketing.
+                     Our consultation and analysis services can pinpoint the right ways to expand the visibility of your newest marketing asset.
                     </div>
                 </div>
                 <div class="service__insights--item col-md-4">
@@ -114,8 +149,8 @@
                         Measure
                     </div>
                     <div class="service__insights--item--text">
-                        Setting your standards for success is the first step in achieving it. What are your quantitative and qualitative goals? 
-                        Our technical services can help you identify and assess analytics to help you continuously improve your marketing strategy.
+                    What does success look like? Qualitative and quantitative goal setting is a key factor in determining future ROI for your project. By leveraging analytics, 
+                    you can measure consumer engagement and conversion rates to determine project success and inform your future marketing strategies.
                     </div>
                 </div>
                 <div class="service__insights--item col-md-4">
@@ -123,8 +158,8 @@
                         Evolve
                     </div>
                     <div class="service__insights--item--text">
-                        As markets continuously evolve, so should your brand. Stay one step ahead of the competition by transforming new insights into actionable objectives.
-                        Maximize every project’s potential by leveraging Media Master Digital full suite of services.
+                    Once you have the necessary insights, it’s time to make moves. With data on your side, your next big idea goes from being a calculated risk to a smart decision rooted in historical marketing gains. 
+                    Our ongoing support services can help you modify and grow your investment to meet the demands of an ever-changing market.
                     </div>
                 </div>
             </div>
@@ -134,34 +169,35 @@
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                        91%
+                    38%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                        of consumers view brand authenticity as the most highly valued indicator of company reliability and trust
+                    of people will stop engaging with a website if the content/layout is unattractive.
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                        39%
+                    73%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                        of marketers say that proving the ROI of their marketing activities is their top marketing challenge.
+                    of companies are investing in custom web design to differentiate their brands.
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                    23%
+                    75%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                    of all revenue increases can be directly attributed to brand consistency across multiple channels.
+                    of judgements consumers make on a company’s credibility are driven by website design.
+
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                    72%
+                    59%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                    of marketers attribute their increased success to improved marketing strategy development.
+                    of consumers prefer content that is beautifully designed as opposed to simply designed.
                     </div>
                 </div>
             </div>

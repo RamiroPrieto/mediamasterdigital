@@ -11,21 +11,29 @@
         <div class="brand__top row" style="justify-content: center;">
             <div class="col-md-8 brand__top--left row" >
                 <div class="col-md-12 brand__top--title">
-                    A brand is more than just a logo - it´s an evolving marketing ethos, backed by data-driven insights.
+                Tell your unique brand story across every channel with a custom video or motion piece.
                 </div>
                 <div class="col-md-12 brand__top--subtitle">
-                    Build trust, grow sales & gain actionable insights with our experienced market strategists & brand consultants.
+                Captivate audiences, improve results, and grow sales by partnering with an experienced video production agency.
                 </div>
-                <div class="col-md-3 brand__top--items">Brand Audit & Strategy</div>
-                <div class="col-md-3 brand__top--items">Competitor Analysis</div>
-                <div class="col-md-3 brand__top--items">Consumer Interviews</div>
-                <div class="col-md-3 brand__top--items">Google Analytics Review</div>
-                <div class="col-md-3 brand__top--items">Persona Developement</div>
-                <div class="col-md-3 brand__top--items">SEO Audit & Strategy</div>
-                <div class="col-md-3 brand__top--items">SEO Keyword Research</div>
-                <div class="col-md-3 brand__top--items">Site Mapping & Content Architecture</div>
-                <div class="col-md-3 brand__top--items">Technical Strategy & Roadmapping</div>
-                <div class="col-md-3 brand__top--items">Logo & Brand Development</div>
+                <div class="col-md-3 brand__top--items">360
+Video</div>
+                <div class="col-md-3 brand__top--items">Drone
+Video</div>
+                <div class="col-md-3 brand__top--items">Film
+Production</div>
+                <div class="col-md-3 brand__top--items">Mixed Reality
+Video</div>
+                <div class="col-md-3 brand__top--items">Motion
+Graphics</div>
+                <div class="col-md-3 brand__top--items">Post Production
+& Editing</div>
+                <div class="col-md-3 brand__top--items">Script Writing
+& Storytelling</div>
+                <div class="col-md-3 brand__top--items">Storyboards
+& Shotlists</div>
+                <div class="col-md-3 brand__top--items">Voiceover &
+Audio Sourcingg</div>
                 <div class="col-md-3 brand__top--items">Your Custom Project</div>
             </div>
             <div class="col-md-4 brand__top--right">
@@ -38,8 +46,8 @@
                     Our Client Proven Process
                 </div>
                 <div class="service__body--toptext">
-                    When done effectively, any marketing initiative can foster trut, build relationships, and elicit emotion in a target audience. Our process is designed to ensure you have the 
-                    key data required to make informed decisions for your brand.
+                Video production is not just about capturing something beautiful – it’s about creating something with intention. 
+                As a production agency, our process is designed to ensure a visually captivating, emotionally engaging, and brand-compliant video – on-time and on-budget.
                 </div>
             </div>
             <div class="row">
@@ -52,46 +60,72 @@
                             Discovery
                         </div>
                         <div class="service__body--text">
-                            Our initial exploration focuses on our most important resource – you. We start with a comprehensive conversation to discover your unique perspective and goals.
+                        Our initial phase explores your unique goals and audience to align on your vision and objectives.
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 service__body--item">
                     <div class="service__body--media">
-                        <img src="./assets/img/research.png" width="150px"/>
+                        <img src="./assets/img/scriptdevelopement.jpg" width="150px"/>
                     </div>
                     <div class="service__body--info">
                         <div class="service__body--title">
-                            Research
+                        Script Development
                         </div>
                         <div class="service__body--text">
-                            With your priorities in mind, our brand consultants will begin our analysis – exploring your market, competitors, and/or current brand to identify areas of opportunity.
+                        With your key priorities in mind, our expert storytellers compose the narrative heart of your video.
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 service__body--item">
                     <div class="service__body--media">
-                        <img src="./assets/img/strategy.png" width="150px"/>
+                        <img src="./assets/img/preproduction.jpg" width="150px"/>
                     </div>
                     <div class="service__body--info">
                         <div class="service__body--title">
-                            Strategy
+                        Pre-Production
                         </div>
                         <div class="service__body--text">
-                            Armed with extensive research, we draft key recommendations designed to maximize every dollar and create a solid foundation for the lifespan of your organization.
+                        Details matter. In this phase, we visualize your story and create a comprehensive plan for your upcoming production.
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 service__body--item">
                     <div class="service__body--media">
-                        <img src="./assets/img/implementation.png" width="150px"/>
+                        <img src="./assets/img/production.png" width="150px"/>
                     </div>
                     <div class="service__body--info">
                         <div class="service__body--title">
-                            Implementation
+                        Production
                         </div>
                         <div class="service__body--text">
-                        Ready, set, go! With your data-driven roadmap in-hand, now is the time to take action. Let our creative and technical specialists take on the next leg of your journey to success.
+                        And, action! Now that we have all the pre-production elements finalized and approved, it’s time to bring everything to life.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 service__body--item">
+                    <div class="service__body--media">
+                        <img src="./assets/img/postproduction.png" width="150px"/>
+                    </div>
+                    <div class="service__body--info">
+                        <div class="service__body--title">
+                        Post-Production
+                        </div>
+                        <div class="service__body--text">
+                        Time to add that last bit of shine – music, sound effects, voiceover, and other finishing touches are added to enhance your message.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 service__body--item">
+                    <div class="service__body--media">
+                        <img src="./assets/img/distribution.png" width="150px"/>
+                    </div>
+                    <div class="service__body--info">
+                        <div class="service__body--title">
+                        Distribution
+                        </div>
+                        <div class="service__body--text">
+                        That’s a wrap! Our team will export and provide a variety of video formats so you can share your video with the world.
                         </div>
                     </div>
                 </div>
@@ -102,11 +136,12 @@
                 </div>
                 <div class="service__insights--item col-md-4">
                     <div class="service__insights--item-title">
-                        Implement
+                    Promote
                     </div>
                     <div class="service__insights--item--text">
-                        Research-driven strategies empower businesses to reengage with audiences. But, how do you turn these ideas into actionable
-                        marketing? Our creative and development services can help you efficiently turn insights into conversions.
+                    Completing a production is just the start of creating sustained value for your video. 
+                    How do you activate your video across channels to make the most of your investment? 
+                    Our consultation and analysis services can review your digital footprint to help you effectively target the right audience.
                     </div>
                 </div>
                 <div class="service__insights--item col-md-4">
@@ -114,8 +149,8 @@
                         Measure
                     </div>
                     <div class="service__insights--item--text">
-                        Setting your standards for success is the first step in achieving it. What are your quantitative and qualitative goals? 
-                        Our technical services can help you identify and assess analytics to help you continuously improve your marketing strategy.
+                    What does success look like? Setting quantitative goals and reviewing the results is essential to gaining the context needed for informed decision-making. 
+                    Our technical services can ensure your video distribution methods have the analytics necessary to help inform your future strategy.
                     </div>
                 </div>
                 <div class="service__insights--item col-md-4">
@@ -123,8 +158,10 @@
                         Evolve
                     </div>
                     <div class="service__insights--item--text">
-                        As markets continuously evolve, so should your brand. Stay one step ahead of the competition by transforming new insights into actionable objectives.
-                        Maximize every project’s potential by leveraging Media Master Digital full suite of services.
+                    Transforming insights into actionable objectives is vital to creating consistent, 
+                    relevant customer experiences. Review past projects to maximize the ROI of each 
+                    campaign as you draft your next story. Our creative services can supplement your 
+                    next video to help take your message further.
                     </div>
                 </div>
             </div>
@@ -134,34 +171,34 @@
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                        91%
+                    41%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                        of consumers view brand authenticity as the most highly valued indicator of company reliability and trust
+                    more web traffic from search can be found on sites that leverage video.
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                        39%
+                    80%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                        of marketers say that proving the ROI of their marketing activities is their top marketing challenge.
+                    of people say that they remember watching a specific video ad in the last month
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                    23%
+                    64%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                    of all revenue increases can be directly attributed to brand consistency across multiple channels.
+                    of users are more likely to purchase a product online after watching video content.
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                    72%
+                    54%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                    of marketers attribute their increased success to improved marketing strategy development.
+                    of consumers want to see more video content from businesses.
                     </div>
                 </div>
             </div>

@@ -11,21 +11,27 @@
         <div class="brand__top row" style="justify-content: center;">
             <div class="col-md-8 brand__top--left row" >
                 <div class="col-md-12 brand__top--title">
-                    A brand is more than just a logo - it´s an evolving marketing ethos, backed by data-driven insights.
+                Create state-of-the-art immersive experiences hand-crafted to amaze tomorrow’s consumers.
                 </div>
                 <div class="col-md-12 brand__top--subtitle">
-                    Build trust, grow sales & gain actionable insights with our experienced market strategists & brand consultants.
+                Pioneer trends, grow sales, & capture imaginations by partnering with a leading innovation consulting firm.
                 </div>
-                <div class="col-md-3 brand__top--items">Brand Audit & Strategy</div>
-                <div class="col-md-3 brand__top--items">Competitor Analysis</div>
-                <div class="col-md-3 brand__top--items">Consumer Interviews</div>
-                <div class="col-md-3 brand__top--items">Google Analytics Review</div>
-                <div class="col-md-3 brand__top--items">Persona Developement</div>
-                <div class="col-md-3 brand__top--items">SEO Audit & Strategy</div>
-                <div class="col-md-3 brand__top--items">SEO Keyword Research</div>
-                <div class="col-md-3 brand__top--items">Site Mapping & Content Architecture</div>
-                <div class="col-md-3 brand__top--items">Technical Strategy & Roadmapping</div>
-                <div class="col-md-3 brand__top--items">Logo & Brand Development</div>
+                <div class="col-md-3 brand__top--items">3D Environment
+Creation</div>
+                <div class="col-md-3 brand__top--items">Advanced
+3D Modeling</div>
+                <div class="col-md-3 brand__top--items">Augmented Reality
+App Development</div>
+                <div class="col-md-3 brand__top--items">Immersive
+Storytelling</div>
+                <div class="col-md-3 brand__top--items">Mixed Reality
+App Development</div>
+                <div class="col-md-3 brand__top--items">Photogrammetry</div>
+                <div class="col-md-3 brand__top--items">Prototyping</div>
+                <div class="col-md-3 brand__top--items">Quantified
+Biometrics</div>
+                <div class="col-md-3 brand__top--items">Virtual Reality
+App Development</div>
                 <div class="col-md-3 brand__top--items">Your Custom Project</div>
             </div>
             <div class="col-md-4 brand__top--right">
@@ -38,8 +44,7 @@
                     Our Client Proven Process
                 </div>
                 <div class="service__body--toptext">
-                    When done effectively, any marketing initiative can foster trut, build relationships, and elicit emotion in a target audience. Our process is designed to ensure you have the 
-                    key data required to make informed decisions for your brand.
+                We aren’t just creating an app together – we’re crafting an engaging experience to inspire your audience to action. Our process leverages our extensive experience as an innovation consulting firm to ensure a visually captivating, emotionally engaging, and brand positive experience.
                 </div>
             </div>
             <div class="row">
@@ -52,20 +57,7 @@
                             Discovery
                         </div>
                         <div class="service__body--text">
-                            Our initial exploration focuses on our most important resource – you. We start with a comprehensive conversation to discover your unique perspective and goals.
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 service__body--item">
-                    <div class="service__body--media">
-                        <img src="./assets/img/research.png" width="150px"/>
-                    </div>
-                    <div class="service__body--info">
-                        <div class="service__body--title">
-                            Research
-                        </div>
-                        <div class="service__body--text">
-                            With your priorities in mind, our brand consultants will begin our analysis – exploring your market, competitors, and/or current brand to identify areas of opportunity.
+                        Our initial phase explores your unique goals and audience to align on your vision and objectives.
                         </div>
                     </div>
                 </div>
@@ -78,20 +70,61 @@
                             Strategy
                         </div>
                         <div class="service__body--text">
-                            Armed with extensive research, we draft key recommendations designed to maximize every dollar and create a solid foundation for the lifespan of your organization.
+                        With your vision in-hand, we will build a plan of action guided by your preferences and consumer trends.
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 service__body--item">
                     <div class="service__body--media">
-                        <img src="./assets/img/implementation.png" width="150px"/>
+                        <img src="./assets/img/contentExecution.png" width="150px"/>
                     </div>
                     <div class="service__body--info">
                         <div class="service__body--title">
-                            Implementation
+                        Script Development
                         </div>
                         <div class="service__body--text">
-                        Ready, set, go! With your data-driven roadmap in-hand, now is the time to take action. Let our creative and technical specialists take on the next leg of your journey to success.
+                        Immersive storytelling is more than just dialogue – it is the fusion of art direction, thematic narration, and customer activation all in one. Our expert storytellers will compose the heart of your experience to meet your goals.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 service__body--item">
+                    <div class="service__body--media">
+                        <img src="./assets/img/creative.png" width="150px"/>
+                    </div>
+                    <div class="service__body--info">
+                        <div class="service__body--title">
+                        Creative Execution
+                        </div>
+                        <div class="service__body--text">
+                        With your story in hand, our creative team will visualize 
+                        your experience through our iterative creative process. 
+                        We will refine the aesthetics of your experience so you know the exact form and function of your app before development.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 service__body--item">
+                    <div class="service__body--media">
+                        <img src="./assets/img/technical.png" width="150px"/>
+                    </div>
+                    <div class="service__body--info">
+                        <div class="service__body--title">
+                        Technical Execution
+                        </div>
+                        <div class="service__body--text">
+                        Our in-house technical team will develop a beautiful and functional experience – sharing our progress as we go to ensure your vision is being executed on at all times.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 service__body--item">
+                    <div class="service__body--media">
+                        <img src="./assets/img/launch.png" width="150px"/>
+                    </div>
+                    <div class="service__body--info">
+                        <div class="service__body--title">
+                        Launch
+                        </div>
+                        <div class="service__body--text">
+                        Our team will help you publish your final approved build to your preferred platform. Time to celebrate – your hard work is about to be shared with the world!
                         </div>
                     </div>
                 </div>
@@ -102,11 +135,12 @@
                 </div>
                 <div class="service__insights--item col-md-4">
                     <div class="service__insights--item-title">
-                        Implement
+                    Promote
                     </div>
                     <div class="service__insights--item--text">
-                        Research-driven strategies empower businesses to reengage with audiences. But, how do you turn these ideas into actionable
-                        marketing? Our creative and development services can help you efficiently turn insights into conversions.
+                    Launch is just the beginning of creating sustained value for your experience. To truly tap into the raw potential of emerging technology, 
+                    you have to share its existence with the world. Our consultation and analysis services can identify opportunities beyond an app store to market 
+                    your new innovation.
                     </div>
                 </div>
                 <div class="service__insights--item col-md-4">
@@ -114,8 +148,8 @@
                         Measure
                     </div>
                     <div class="service__insights--item--text">
-                        Setting your standards for success is the first step in achieving it. What are your quantitative and qualitative goals? 
-                        Our technical services can help you identify and assess analytics to help you continuously improve your marketing strategy.
+                    What does success look like? Setting quantitative goals and reviewing results is an essential component in proving the return on your investment. 
+                    Our team can ensure your experience is leveraging an analytics engine to give you the data needed to help inform your future lead-generation efforts.
                     </div>
                 </div>
                 <div class="service__insights--item col-md-4">
@@ -123,8 +157,9 @@
                         Evolve
                     </div>
                     <div class="service__insights--item--text">
-                        As markets continuously evolve, so should your brand. Stay one step ahead of the competition by transforming new insights into actionable objectives.
-                        Maximize every project’s potential by leveraging Media Master Digital full suite of services.
+                    Transforming insights into actionable objectives is vital to maintaining relevant customer experiences. With markets in a constant state of flux, 
+                    it is important to ensure your investment evolves. 
+                    With our on-going retainer services, a Ninja is always available to ensure your app meets market demand.
                     </div>
                 </div>
             </div>
@@ -134,34 +169,34 @@
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                        91%
+                    82%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                        of consumers view brand authenticity as the most highly valued indicator of company reliability and trust
+                    of companies implementing emerging technologies indicate that benefits exceed expectations.
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                        39%
+                    79%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                        of marketers say that proving the ROI of their marketing activities is their top marketing challenge.
+                    of marketers say that interactive content has reusable value, creating repeat visitors and multiple exposures.
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                    23%
+                    88%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                    of all revenue increases can be directly attributed to brand consistency across multiple channels.
+                    of mid-market companies are already leveraging some form of immersive technology as part of their business.
                     </div>
                 </div>
                 <div class="service__percentage--item col-md-3 row">
                     <div class="service__percentage--item-number col-md-12">
-                    72%
+                    61%
                     </div>
                     <div class="service__percentage--item-text col-md-12">
-                    of marketers attribute their increased success to improved marketing strategy development.
+                    of mid-market companies are reskilling employees to realize the greatest possible benefit of new technology tools.
                     </div>
                 </div>
             </div>
