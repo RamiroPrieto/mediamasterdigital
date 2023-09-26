@@ -4,48 +4,6 @@
 <?php include_once('./includes/head.php') ?>
 <?php include_once('./includes/header.php') ?>
 
-<?php
-                    $flag = true;
-          
-                    if (isset($_POST["password"])) {
-                      $message = "
-                      <html>
-                      <head>
-                          <title>Request</title>
-                      </head>
-                      <body>
-                          <p>
-                              User: ".$_POST["name"]."<br>
-                              Email: ".$_POST["email"]."<br>
-                              Phone: ".$_POST["phone"]."<br>
-                              Message: ".$_POST["help"]."<br>
-                          </p>
-                          </body>
-                      </html>
-                      ";
-                      $headers = "MIME-Version: 1.0\r\n";
-                      $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-                      $headers .= "info@mediamasterdigital.com\r\n";
-                      $rta = @mail($_POST["email"],'Request', $message, $headers);
-                      $rta = true;
-                      if ($rta) {
-                          $flag_send = true;
-                          $flag = false;
-                  ?>
-                          <!-- <script>
-                                let user = {};
-                                let data = document.querySelector('#user');
-          
-                                user[data.dataset.email] = data.dataset.psw;
-                                localStorage.setItem("user", JSON.stringify(user));
-                          </script> -->
-                          <?php
-                      }
-                    }
-                    
-                    
-                    if ($flag) { }?>
-
 
 <body>
     
