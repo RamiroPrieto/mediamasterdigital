@@ -27,7 +27,7 @@
                 <div class="col-md-3 brand__top--items">Web Design &Development</div>
                 <div class="col-md-3 brand__top--items">Your CustomProject</div>
             </div>
-            <div class="col-md-4 brand__top--right">
+            <div class="col-md-4 brand__top--right--design">
 
             </div>
         </div>

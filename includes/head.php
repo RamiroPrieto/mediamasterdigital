@@ -1,7 +1,7 @@
 <head>
 	<link rel="stylesheet" href="./assets/css/styles.css" type="text/css" />
 	<!-- <link rel="stylesheet" href="../assets/css/styles.css" type="text/css" /> -->
-
+    <title>Media Master Digital</title>
     <link rel="icon" href="./assets/img/MEDIAMASTERLOGO.svg" sizes="any" type="image/svg+xml">
 
     <meta name="robots" content="noindex, nofollow"/>

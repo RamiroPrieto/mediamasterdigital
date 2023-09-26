@@ -55,24 +55,24 @@
         </div>
         <div class="container row">
             <div class="presentation__title col-md-12">Media Master Digital</div>
-            <div class="col-md-2 presentation__service">
+            <a href="./brand" class="col-md-2 presentation__service">
             Brand consultation and Market analisys
-            </div>
-            <div class="col-md-2 presentation__service">
+                </a>
+            <a href="./design" class="col-md-2 presentation__service">
             Creative design and Branding
-            </div>
-            <div class="col-md-2 presentation__service">
+                </a>
+            <a href="./webdev" class="col-md-2 presentation__service">
             Custom web and APP development
-            </div>
-            <div class="col-md-2 presentation__service">
+                </a>
+            <a href="./newtech" class="col-md-2 presentation__service">
             Immersive Reality and new technologies
-            </div>
-            <div class="col-md-2 presentation__service">
+                </a>
+            <a href="./video" class="col-md-2 presentation__service">
             Video production and animation
-            </div>
-            <div class="col-md-2 presentation__service">
+                </a>
+            <a href="./allservices" class="col-md-2 presentation__service">
             View all services
-            </div>
+                </a>
         </div>
     </div>
     <div class="weare">

@@ -34,7 +34,7 @@ Biometrics</div>
 App Development</div>
                 <div class="col-md-3 brand__top--items">Your Custom Project</div>
             </div>
-            <div class="col-md-4 brand__top--right">
+            <div class="col-md-4 brand__top--right--reality">
 
             </div>
         </div>

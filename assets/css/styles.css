@@ -177,16 +177,46 @@ footer {
     color: white;
     font-weight: 700;
     z-index: 20;
+    background-color: #00000078;
 }
 
 .prueba{
     font-size: 60px;
 }
 
-.presentation__service{
+.col-md-2.presentation__service{
     color: white;
     z-index: 20;
     font-size: 20px;
+    background-color: #00000078;
+    text-decoration: underline;
+}
+
+@media(max-width: 1200px) {
+    .col-md-2.presentation__service{
+        padding-top: 15px;
+        width: 33%;
+    }
+    
+}
+
+@media(max-width: 770px) {
+    .col-md-2.presentation__service{
+        padding-top: 15px;
+        width: 50%;
+    }
+    
+}
+
+@media(max-width: 500px) {
+    .col-md-2.presentation__service{
+        padding-top: 15px;
+        width: 100%;
+    }
+    .presentation__title{
+        font-size: 45px;
+    }
+    
 }
 
 .presentation__blur{
@@ -201,27 +231,32 @@ footer {
 
 .contact.row{
     margin-top: 30px;
+    color: black;
+    box-shadow: 60px -16px #773942;
+    border: 1px solid #773942;
+    margin-top: 55px;
 }
 
 .btn.btn-primary{
     border-radius: 0%;
     font-size: 20px;
     width: 100%;
-    background-color: rgb(46, 46, 199);
+    background-color: #754970;
     border: none;
 }
 
 .contact__right{
-    background-color: #94618E;
+    background-color: #773942;
     padding: 20px;
-    color: white;
+    color: black;
 }
 
 .contact__left{
-    background-color: #94618E;
+    background-color: white;
     padding: 20px 20px !important;
     /* padding-right: 30px; */
     font-weight: 600;
+    color: black;
 }
 
 input.form-control{
@@ -229,7 +264,7 @@ input.form-control{
 }
 
 .contact__title{
-    color: white;
+    color: #773942;
     height: 34px;
     font-weight: 600;
 }
@@ -282,7 +317,7 @@ input.form-control{
 /* WEARE */
 
 .weare{
-    background-color: #754970;
+    background-color: #773942;
 }
 
 .weare__text{
@@ -294,7 +329,7 @@ input.form-control{
 /* BRAND */
 
 .brand__top--left{
-    background-color: #9c6095;
+    background-color: #773942;
     min-height: 800px;
     color: white;
     padding: 50px 40px !important;
@@ -308,6 +343,61 @@ input.form-control{
     background-size: cover;
     position: relative;
 }
+
+.col-md-4.brand__top--right--video{
+    background-color: #754970;
+    background-image: url("../img/videoSection.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-attachment: fixed; */
+    background-position: -352px;
+    background-size: cover;
+    position: relative;
+}
+
+.col-md-4.brand__top--right--design{
+    background-color: #754970;
+    background-image: url("../img/designSection.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    position: relative;
+}
+
+.col-md-4.brand__top--right--web{
+    background-color: #754970;
+    background-image: url("../img/webDevelopmentSection.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    position: relative;
+}
+
+.col-md-4.brand__top--right--reality{
+    background-color: #754970;
+    background-image: url("../img/inmersiveRealitySection.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-position: -528px;
+    position: relative;
+}
+
+.col-md-4.brand__top--right--brandsection{
+    background-color: #754970;
+    background-image: url("../img/brandSection.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-attachment: fixed; */
+    background-position: -149px;
+    background-size: cover;
+    position: relative;
+}
+
+
 
 .brand__top--title{
     font-size: 50px;
