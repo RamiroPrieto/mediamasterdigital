@@ -1,3 +1,6 @@
+<div class="whitespacefooter">
+
+</div>
 <footer>
     <!-- <div class="ocean">
         <div class="wave"></div>
