@@ -8,7 +8,7 @@
     </div> -->
     <div class="container row">
         <div class="col-md-6" >
-            <img class="footer-logo" style="margin: auto;" src="./assets/img/MEDIAMASTER.png" alt="Logo de la empresa" width="70px">
+            <img class="footer-logo" style="margin: auto;" src="./assets/img/MEDIAMASTER-W.png" alt="Logo de la empresa" width="70px">
         </div>
         <ul class="contact-info col-md-6" style="margin: auto;">
             <li>Company Number: Pending</li>
