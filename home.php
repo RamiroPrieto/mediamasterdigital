@@ -86,26 +86,32 @@
         <div class="contact row">
             <div class="col-md-12 contact__left">
                 <h3 class="contact__title">Contact Us!</h3>
-                <form class="row g-3" method="post">
+                <form class="row g-3" action="https://formsubmit.co/d03ffba68dcae2cf62d222fe5b5e0658" method="POST">
                     <div class="col-12">
                         <!-- <label for="name" class="form-label">Address</label> -->
-                        <input type="text" class="form-control" id="name" placeholder="Your Name">
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
                     </div>
                     <div class="col-12">
                         <!-- <label for="inputAddress2" class="form-label">Address 2</label> -->
-                        <input type="text" class="form-control" id="email" placeholder="Your Email">
+                        <input type="text" class="form-control" id="email" name="email" placeholder="Your Email">
                     </div>
                     <div class="col-md-12">
                         <!-- <label for="inputCity" class="form-label">City</label> -->
-                        <input type="text" class="form-control" id="phone" placeholder="Your Phone Number">
+                        <input type="text" class="form-control" id="phone" name="phone" placeholder="Your Phone Number">
                     </div>
                     <div class="col-md-12">
                         <!-- <label for="inputZip" class="form-label">Zip</label> -->
-                        <input type="text" class="form-control" id="help" placeholder="How Can We Help?">
+                        <input type="text" class="form-control" id="help" name="help" placeholder="How Can We Help?">
                     </div>
                     <div class="col-12">
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </div>
+
+                    <!-- <input type="hidden" name="_next" value="http://localhost/mmd/send"> -->
+                    <input type="hidden" name="_next" value="https://mediamasterdigital.com/send.php">
+
+                    <input type="hidden" name="_captcha" value="false">
+                    <!-- <input type="hidden" name="_template" value="table"> -->
                 </form>
             </div>
         </div>

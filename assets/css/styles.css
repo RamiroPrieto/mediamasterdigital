@@ -10,6 +10,31 @@
 
 /* general */
 
+.send{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    height: 300px;
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.send__message{
+    background-color: #773942;
+    font-size: 20px;
+    color: white;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+
 .whitespace{
     height: 70px;
 }
@@ -559,7 +584,7 @@ input.form-control{
 }
 
 .allservices__item.col-md-2{
-    background-color: #754970;
+    background-color: #773942;
     padding: 20px;
     color: white;
     border: 1px solid black;
