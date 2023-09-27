@@ -44,7 +44,7 @@
         <div class="contact row">
             <div class="col-md-12 contact__left">
                 <h3 class="contact__title">Contact Us!</h3>
-                <form class="row g-3" action="https://formsubmit.co/d03ffba68dcae2cf62d222fe5b5e0658" method="POST">
+                <form class="row g-3" action="https://formsubmit.co/info@mediamasterdigital.com" method="POST">
                     <div class="col-12">
                         <!-- <label for="name" class="form-label">Address</label> -->
                         <input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
